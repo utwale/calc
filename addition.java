@@ -8,6 +8,9 @@ public static void main(String[] args){
 	int a = sc.nextInt();
 	int b= sc.nextInt();
 	int sum = a+b;
+	int mult = a*b;
 	System.out.println("Addition: "+sum);
+		System.out.println("Multiplication: "+multr);
+
 	sc.close();
 }}
