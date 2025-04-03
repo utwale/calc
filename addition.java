@@ -10,7 +10,9 @@ public static void main(String[] args){
 	int sum = a+b;
 	int mult = a*b;
 	System.out.println("Addition: "+sum);
-		System.out.println("Multiplication: "+multr);
+		System.out.println("Multiplication: "+mult);
 
+	int sub=a-b;
+                System.out.println("Substraction: "+sub);
 	sc.close();
 }}
